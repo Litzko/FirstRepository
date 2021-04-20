@@ -1,1 +1,1 @@
-A basic "Hello World" Project
+A basic "Hello World" project
