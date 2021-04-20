@@ -1,3 +1,2 @@
-# hello-world
-a repository
-idk XD btw
+#FirstRepository 
+A basic "Hello World" Project
